@@ -13,7 +13,7 @@ include ('include/db.php');
 </head>
 
 <body>
-<!-- EMPIEZA EL CONTENIDO DE CABEZA -->
+<!-- EMPIEZA EL CONTENIDO DE CABEZA nitida -->
 <div id="header">
 	<div id="logo"><a href="index.php"><img src="img/layout/logo.gif" title="logo"  alt="logo"/></a></div>
     
